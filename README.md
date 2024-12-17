@@ -1,4 +1,4 @@
-# gala.github.io
-test text
+## Reflection Statement 
 
 
+## Looking Forward
